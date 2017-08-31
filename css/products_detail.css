@@ -1,0 +1,187 @@
+div#app_2135429802437100 {
+    margin-bottom: 12px;
+    margin-top: 0;
+    padding-top: 12px;
+    padding-left: 15px;
+    max-width: 1200px;
+}
+@media (min-width: 961px) and (max-width: 1199px) {
+    div#app_2135429802437100 {
+        padding-left: 30px !important;
+    }
+}
+@media (min-width: 768px) and (max-width: 960px) {
+    div#app_2135429802437100 {
+        padding-left: 30px !important;
+    }
+}
+div#el_1466909285574d4wf2 {
+    padding-top: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    max-width: 1200px;
+    background-color: #fff;
+}
+/* （PC以下） */
+@media (max-width: 1199px) {
+    #el_1466909285574d4wf2 {
+        /*padding-left: 30px !important;*/
+        /*padding-right: 30px !important;*/
+    }
+}
+@media (max-width: 767px) {
+    #el_1466909285574d4wf2 {
+        padding-left: 10px !important;
+        padding-right: 10px !important;
+    }
+}
+.goods_detail_1_top.goods_detail_top .goods_detail_1_slides {
+    z-index: 0;
+}
+.goods_detail_1_top.goods_detail_top {
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.goods_detail_1_top_info {
+    padding-left: 50px !important;
+}
+@media (max-width: 767px) {
+    .goods_detail_1_top.goods_detail_top {
+        padding-left: 0;
+        padding-right: 0;
+    }
+    .goods_detail_1_top_info {
+        padding-left: 0 !important;
+    }
+}
+.goods_detail_title {
+    /*font-weight: bold;*/
+}
+.goods_detail_promoPrice {
+    color: #ec0971;
+}
+.goods_stockBtn.minus {
+    margin-top: 0;
+    margin-left: 0;
+    padding-left: 12px;
+    padding-right: 12px;
+}
+
+.goods_stockBtn.plus {
+    margin-top: 0;
+    margin-left: 0;
+}
+@media (max-width: 767px) {
+    .goods_detail_1_optionsChose ul li {
+        display: inline-block !important;
+    }
+}
+div#el_14669092855745pmy1 {
+    max-width: 1200px;
+    background-color: #fff;
+    position: relative;
+}
+
+.goods_detail_1_top.goods_detail_top {
+    position: absolute;
+    left: 0;
+    top: 30px;
+    width: 100%;
+}
+
+div#app_8096397548803967 {
+    margin-top: 620px;
+    padding-left: 20px;
+    padding-bottom: 20px;
+}
+
+.goods_detail_1_wareDetails.goods_detail_wareDetails {
+    margin-top: 620px;
+}
+@media (min-width: 961px) and (max-width: 1199px) {
+    div#app_8096397548803967, .goods_detail_1_wareDetails.goods_detail_wareDetails {
+        margin-top: 530px;
+    }
+}
+@media (min-width: 768px) and (max-width: 960px) {
+    .goods_detail_1_top.goods_detail_top {
+        position: initial;
+    }
+    div#app_8096397548803967, .goods_detail_1_wareDetails.goods_detail_wareDetails {
+        margin-top: 15px;
+    }
+    .goods_detail_1_wareDetails.goods_detail_wareDetails {
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+    #app_7490983252987950 {
+        margin-top: 15px;
+    }
+    div#app_8096397548803967 {
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+}
+@media (max-width: 767px) {
+    .goods_detail_1_top.goods_detail_top {
+        position: initial;
+    }
+    div#app_8096397548803967, .goods_detail_1_wareDetails.goods_detail_wareDetails {
+        margin-top: 15px;
+    }
+    .goods_detail_1_wareDetails.goods_detail_wareDetails {
+        padding-left: 0;
+        padding-right: 0;
+    }
+    #app_7490983252987950 {
+        margin-top: 15px;
+    }
+    div#app_8096397548803967 {
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+}
+#el_14669092855745pmy1 .rowPatch .span9 {
+    float: right;
+}
+@media (max-width: 960px) {
+    #el_14669092855745pmy1 .rowPatch .span9 {
+        float: none;
+    }
+}
+.goods_wareDetail_title a {
+    line-height: 46px !important;
+    height: 46px !important;
+}
+#app_8096397548803967 .goods_list {
+    border: 1px solid #eee;
+}
+
+#app_8096397548803967 .goods_list .goods_list_1 .con_body {
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 5px;
+}
+
+#app_8096397548803967 .goods_list .appTitle h2 {
+    padding-left: 15px;
+}
+
+.goods_wareDetail_detail p>span[style="font-size:16px"] {
+    font-weight: bold;
+    background-color: #f8f8f8;
+    display: block;
+    padding: 10px;
+}
+.goods_wareDetail_detail p>span[style="font-size:18px"] {
+    font-weight: bold;
+}
+.goods_wareDetail_detail p {
+    margin: 20px 0;
+}
+
+.goods_wareDetail_1_option {
+    padding-bottom: 15px;
+    border-bottom: 1px dashed #666;
+}

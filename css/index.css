@@ -1,0 +1,21 @@
+/*首页独有样式*/
+#el_14669092855745pmy1 .goods_list .appColumn, #el_1466935411104gb1h81 .goods_list .appColumn {
+    padding-left: 5px;
+    padding-right: 5px;
+}
+@media (max-width: 767px) {
+    #app_0326681433631694 .goods_list .appColumn .latticePad {
+        margin-left: 5px;
+    }
+
+    #app_0326681433631694 .appRow .appPatch {
+        margin-left: -5px;
+    }
+}
+#el_1492054041564f8sw6, #el_1492053921858irfs2, #el_1466935411124cki8141 {
+    padding-bottom: 40px;
+}
+#el_1466932301613fo8l2 {
+    padding-top: 18px;
+    padding-bottom: 40px;
+}
